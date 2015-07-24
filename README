@@ -1,3 +1,5 @@
+# CentOS QA
+
 This Code is written for and used in the CentOS Automated QA tests process. We welcome all contributions.
 
 See the doc directory for additional information on test writing.
@@ -5,3 +7,6 @@ See the doc directory for additional information on test writing.
 CentOS QA Server: https://ci.centos.org/
 CentOS Build Log: http://buildlogs.centos.org/
 CentOS Downloads: http://mirror.centos.org/
+
+Colaboration: 
+Fedora QA - https://fedoraproject.org/wiki/QA
